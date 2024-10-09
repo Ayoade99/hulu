@@ -1,0 +1,168 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ html {
+    font-size: 62.5%;
+ }
+
+ @media (max-width: 500px) {
+
+    .flexbox {
+        display: flex;
+        flex-direction: column;
+        padding-top: 5rem;
+    }
+
+    header {
+        min-height: 80vh;
+    }
+
+    .align {
+        min-height: 20vh;
+    }
+
+    .two {
+        margin-bottom: 3rem;
+        margin-top: 3rem;
+    }
+
+    .first {
+        min-height: 40vh;
+    }
+
+    .flexbox1 {
+        display: flex;
+        flex-direction: column;
+        padding-left: 1rem;
+    }
+
+    .intro2 {
+        padding-top: 5rem;
+    }
+
+    .intro3 h3 {
+        font-size: 1.5rem;
+        padding: 1.5rem;
+    }
+
+    .intro4 h3 {
+        font-size: 2rem;
+    }
+
+    .intro4 {
+        min-height: 30vh;
+    }
+
+    .images img {
+        margin-top: 2rem;
+    }
+
+    .intro5 h4 {
+        padding-top: 3rem;
+    }
+
+    .intro5 h3 {
+        font-size: 2rem;
+    }
+
+    .intro5 p {
+        font-size: 1.5rem;
+        padding: 0 2rem;
+    }
+
+    #dummy{
+        text-align: none;
+        padding: 3rem 2rem;
+    }
+
+    #view {
+        padding-bottom: 2rem;
+    }
+
+    .intro6 {
+        min-height: 5vh;
+        padding-left: 2rem;
+    }
+
+    .intro7 {
+        padding-left: 2rem;
+    }
+
+    .intro7 h3 {
+        font-size: 2rem;
+        padding-top: 2rem;
+    }
+
+    .intro7 p {
+        font-size: 1rem;
+    }
+
+    .images2 img {
+        margin-bottom: 2rem;
+    }
+
+    .intro8 h3 {
+        font-size: 3rem;
+    }
+
+    .intro8 p {
+        font-size: 1.5rem;
+    }
+
+    .fifth button{
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+
+    .flexbox2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+     .intro9 {
+        margin-bottom: 3rem;
+     }
+    #dummy2 {
+        font-size: 1rem;
+    }
+
+    .fifth table {
+        margin: 0 0.4rem;
+    }
+
+    .fifth td {
+        padding: 3rem 0.4rem;
+    }
+
+    footer table {
+        padding-top: 2rem;
+        margin-left: 0.1rem;
+    }
+
+    footer th {
+     padding: 2rem 0.5rem;
+     font-size: 1rem;
+    }
+
+    footer td {
+        padding: 1rem 0.5rem;
+    }
+
+    footer td a {
+        font-size: 1rem;
+    }
+    
+    footer #empty {
+        margin-left: 1rem;
+    }
+
+    .links {
+        padding-left: 1rem;
+    }
+
+    .last {
+        margin-left: 1rem;
+    }
+ }
