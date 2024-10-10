@@ -60,6 +60,10 @@
         text-align: center;
         padding-top: 1rem;
     }
+
+    .intro1 p {
+        text-align: center;
+    }
     .intro2 {
         padding-top: 5rem;
     }
@@ -79,7 +83,7 @@
 
     .images img {
         margin-top: 2rem;
-        margin-left: 8rem;
+        margin-left: 5rem;
     }
 
     .intro5 h4 {
