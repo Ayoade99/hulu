@@ -75,7 +75,7 @@ li{
 
 .one #get{
     color: black;
-    padding: 1rem 10rem;
+    padding: 1.5rem 8rem;
     background-color: rgb(10, 235, 167);
     font-size: 1.5rem;
     text-decoration: none;
@@ -83,6 +83,7 @@ li{
     font-family: "Montserrat", sans-serif;
     letter-spacing: 1px;
     font-weight: 600;
+    margin-left: 3rem;
 }
 
 .two h4{
@@ -109,7 +110,7 @@ li{
 
 .two #get {
     color: black;
-    padding: 1rem 10rem;
+    padding: 1.5rem 9rem;
     background-color: rgb(10, 235, 167);
     font-size: 1.5rem;
     text-decoration: none;
